@@ -1,1 +1,2 @@
-# portfolio-optimisation-with-quantum-computers
+# Asset Management Python Code
+This small Python package was created to run empirical experiments for the Master Thesis by Francisco Manjon: Discrete Portfolio Optimisation with Hybrid Quantum Algorithms.
